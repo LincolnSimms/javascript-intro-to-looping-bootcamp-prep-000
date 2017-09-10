@@ -6,7 +6,7 @@ var forLoop = {}
     console.log(`I am 1 strange loop`)
   }
   else (i > 1) {
-    console.log('I am ${i} strange loops')
+    console.log(`I am ${i} strange loops`)
   }
 }
 }
